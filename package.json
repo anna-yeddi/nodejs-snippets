@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-snippets",
+  "version": "1.0.0",
+  "description": "Hand-picked library of NodeJS code snippets for future references or oblivion",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3ta007/nodejs-snippets.git"
+  },
+  "author": "Anna Kova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3ta007/nodejs-snippets/issues"
+  },
+  "homepage": "https://github.com/m3ta007/nodejs-snippets#readme"
+}
